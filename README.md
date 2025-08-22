@@ -1,33 +1,44 @@
-# 
-Angel Osvaldo Duran Peñaflor 
+NAME
 
-# MATRICULA
+Angel Osvaldo Duran Peñaflor
+Cesar Leonardo de la Torre Villalobos
+
+ENROLLMENT
+
 al03033963
-# MAESTRO
- Jose Luis Garcia Muños
-# SEMESTRE 
-6 semestre 
-# MARDOWON
-permite escribir mas rapido y obtener un resultado final mejor 
+al03061875
 
-# Etiquetas
+TEACHER
 
-git status
+José Luis García Muñoz
 
-git add nombre-del-archivo
+SEMESTER
 
-git add .
+6th semester
 
-git commit -m "Mensaje descriptivo del commit"
+MARKDOWN
 
-git push origin nombre-de-la-rama
+allows writing faster and getting a better final result
 
-git branch nombre-de-la-rama
+COMMANDS
+git status  
 
-git checkout nombre-de-la-rama
+git add file-name  
 
-git branch -d nombre-de-la-rama
+git add .  
 
-git log
-git reset --hard hash-del-commit
-git reset --soft hash-del-commit
+git commit -m "Descriptive commit message"  
+
+git push origin branch-name  
+
+git branch branch-name  
+
+git checkout branch-name  
+
+git branch -d branch-name  
+
+git log  
+
+git reset --hard commit-hash  
+
+git reset --soft commit-hash  
