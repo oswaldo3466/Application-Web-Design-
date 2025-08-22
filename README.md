@@ -1,10 +1,10 @@
-# NOMBRE 
+# 
 Angel Osvaldo Duran Peñaflor 
 
 # MATRICULA
 al03033963
 # MAESTRO
- 
+ Jose Luis Garcia Muños
 # SEMESTRE 
 6 semestre 
 # MARDOWON
