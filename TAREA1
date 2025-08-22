@@ -1,0 +1,10 @@
+# README.md
+
+## Markdown Tags
+Markdown ofrece una variedad de etiquetas que se pueden utilizar para formatear texto en documentos. 
+unas maneras son estas;
+### Encabezados
+```markdown
+# Encabezado de nivel 1
+## Encabezado de nivel 2
+### Encabezado de nivel 3
