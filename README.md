@@ -43,3 +43,27 @@ git log
 git reset --hard commit-hash  
 
 git reset --soft commit-hash  
+
+
+## Markdown Tagging Options  
+
+- **Bold text** → `**text**`  
+- *Italic text* → `*text*`  
+- [Links](https://github.com) → `[title](URL)`  
+- `Inline code` → `` `code` ``  
+- Code blocks →  
+
+- Lists (ordered and unordered)  
+
+
+## Git Commands Used  
+
+- Check repository status: `git status`  
+- Add file individually: `git add filename`  
+- Add all files: `git add .`  
+- Commit with message: `git commit -m "message"`  
+- Push to remote repository: `git push origin main`  
+- Create branch: `git branch branch-name`  
+- Switch to branch: `git checkout branch-name`  
+- Delete branch: `git branch -d branch-name`  
+- Rollback to a specific commit: `git checkout commit-id`  
